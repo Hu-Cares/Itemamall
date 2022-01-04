@@ -1,21 +1,29 @@
 var itemaSwiper = new Swiper('.swiper-container', {
-    //设置自动播放
-    autoplay: {
-        delay: 2000,
-        disableOnInteraction: false
-    },
     //设置无限循环播放
     loop: true,
-/*    //设置圆点指示器
-    pagination: {
-        el: '.swiper-pagination',
-    },*/
     //设置上下页按钮
     navigation: {
         nextEl: '.swiper-button-next',
         prevEl: '.swiper-button-prev',
-    }
-})
+    },
+    scrollbar: {
+        el: '.swiper-scrollbar',
+    },
+    slidesPerView: 1,
+    spaceBetween: 30,
+    effect: 'fade',//渐变
+    lazy:true,
+    speed:2000,
+    parallax : true,
+    pagination: {
+        el: '.swiper-pagination',
+        type: 'progressbar',
+        clickable: true,
+
+    },
+});
+itemaSwiper.scrollbar.$dragEl.css('background','#fff');
+
 
 /*
 $('.all-sort-list > .item').hover(function () {

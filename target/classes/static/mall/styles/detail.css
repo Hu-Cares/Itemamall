@@ -66,16 +66,19 @@
     margin: 20px auto;
     padding: 0 34px;
     box-sizing: border-box;
+    --swiper-navigation-color:white;
 }
 
 #detail .intro .left .swiper-container .swiper-button-prev {
     left: 0;
     background-position: left;
+    --swiper-navigation-color:white;
 }
 
 #detail .intro .left .swiper-container .swiper-button-next {
     right: 0;
     background-position: right;
+    --swiper-navigation-color:white;
 }
 
 #detail .intro .right {
