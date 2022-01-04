@@ -84,6 +84,22 @@
     padding-bottom: 50px;
 }
 
+#detail .intro .center {
+    width: 1226px;
+    /*height: 780px;*/
+    padding-bottom: 50px;
+}
+
+#detail .intro .return {
+    width: 1226px;
+    padding-bottom: 50px;
+}
+
+#detail .intro .comments {
+    width: 1180px;
+    padding-bottom: 30px;
+}
+
 #detail .intro .right .sub_title {
     font-size: 16px;
     color: #b0b0b0;
@@ -135,11 +151,6 @@
 }
 
 .swiper-container .swiper-wrapper .swiper-slide img {
-    width: 100%;
-    height: 100%;
-}
-
-.swiper-container .swiper-wrapper .swiper-slide div {
     width: 100%;
     height: 100%;
 }

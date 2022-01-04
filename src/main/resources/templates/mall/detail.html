@@ -46,13 +46,18 @@
                     <dt>支付</dt>
                     <dd><a href="##" target="_blank"><img th:src="@{/mall/image/card.png}">微信支付</a></dd>
                 </dl>
-<!--                <dl>-->
-<!--                    <dt>支持</dt>-->
-<!--                    <dd>折旧变现，买新更省钱。<a style="float:none;text-decoration: underline;" href="##">详情</a></dd>-->
-<!--                </dl>-->
+                <!--                <dl>-->
+                <!--                    <dt>支持</dt>-->
+                <!--                    <dd>折旧变现，买新更省钱。<a style="float:none;text-decoration: underline;" href="##">详情</a></dd>-->
+                <!--                </dl>-->
                 <dl>
                     <dt>查看评论</dt>
-                    <dd>聪明的人买东西都会先看评论<br><a style="float:none;text-decoration: underline;" href="##">点击查看评论</a></dd>
+                    <dd>聪明的人买东西都会先看评论<br>
+                        <!--<a style="float:none;text-decoration: underline;"
+                                            href="##">点击查看评论</a>-->
+                        <a style="float:none;text-decoration: underline;"
+                           th:href="@{'/goods/comment/'+${goodsDetail.goodsId}}">点击查看评论</a>
+                    </dd>
                 </dl>
             </div>
         </div>
@@ -61,13 +66,13 @@
     <!-- 这里使用的是 th:utext 标签，用 th:text 不会解析 html，用 th:utext 会解析 html -->
     <div class="goods mt20 w clearfix" th:utext="${goodsDetail.goodsDetailContent}">
     </div>
-    <th:block>
+    <!--<th:block>
         <ul>
             <li class="" th:each="Commenttwo:${Commenttwo}"
                 th:text="${Commenttwo}">评论加载中</li>
         </ul>
-    </th:block>
-    <a th:href="@{'/goods/comment/'+${goodsDetail.goodsId}}">查看全部</a>
+    </th:block>-->
+    <!--<a th:href="@{'/goods/comment/'+${goodsDetail.goodsId}}">查看全部</a>-->
 </div>
 
 <div th:replace="mall/footer::footer-fragment"></div>
