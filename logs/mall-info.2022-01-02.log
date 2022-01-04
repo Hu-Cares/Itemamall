@@ -1,0 +1,294 @@
+2022-01-02 17:15:33.157 [main] INFO  itemaMallPlusApplication - [logStarting,55] - Starting itemaMallPlusApplication using Java 11.0.13 on DESKTOP-UPLS549 with PID 6928 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-02 17:15:33.161 [main] INFO  itemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-02 17:15:35.579 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-02 17:15:38.931 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-02 17:15:38.973 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-02 17:15:38.981 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-02 17:15:39.038 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-02 17:15:39.102 [main] INFO  itemaMallPlusApplication - [logStarted,61] - Started itemaMallPlusApplication in 6.652 seconds (JVM running for 8.761)
+2022-01-02 17:15:39.144 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-02 17:15:39.470 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-02 17:16:04.272 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-02 17:19:55.621 [XNIO-1 task-4] INFO  OrderController - [paySuccess,232] - 支付宝paySuccess通知数据记录：orderNo: 16411151897597978, payType：2
+2022-01-02 17:20:37.823 [XNIO-1 task-4] INFO  OrderController - [paySuccess,232] - 支付宝paySuccess通知数据记录：orderNo: 16411152333351123, payType：2
+2022-01-02 17:24:04.260 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-02 17:24:04.266 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-01-02 17:24:04.360 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-02 17:24:04.382 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-02 17:24:19.411 [main] INFO  itemaMallPlusApplication - [logStarting,55] - Starting itemaMallPlusApplication using Java 11.0.13 on DESKTOP-UPLS549 with PID 9452 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-02 17:24:19.415 [main] INFO  itemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-02 17:24:21.014 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-02 17:24:23.161 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-02 17:24:23.166 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-02 17:24:23.170 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-02 17:24:23.197 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-02 17:24:23.247 [main] INFO  itemaMallPlusApplication - [logStarted,61] - Started itemaMallPlusApplication in 5.309 seconds (JVM running for 6.897)
+2022-01-02 17:24:23.263 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-02 17:24:23.397 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-02 17:24:33.174 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-02 17:26:34.847 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-02 17:26:34.852 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-01-02 17:26:34.875 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-02 17:26:34.888 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-02 17:26:42.066 [main] INFO  itemaMallPlusApplication - [logStarting,55] - Starting itemaMallPlusApplication using Java 11.0.13 on DESKTOP-UPLS549 with PID 19924 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-02 17:26:42.068 [main] INFO  itemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-02 17:26:43.275 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-02 17:26:44.202 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-02 17:26:44.206 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-02 17:26:44.210 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-02 17:26:44.234 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-02 17:26:44.273 [main] INFO  itemaMallPlusApplication - [logStarted,61] - Started itemaMallPlusApplication in 2.675 seconds (JVM running for 3.997)
+2022-01-02 17:26:44.286 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-02 17:26:44.421 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-02 17:27:50.087 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-02 17:27:50.117 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-02 17:27:50.138 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-02 17:27:58.086 [main] INFO  itemaMallPlusApplication - [logStarting,55] - Starting itemaMallPlusApplication using Java 11.0.13 on DESKTOP-UPLS549 with PID 14420 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-02 17:27:58.089 [main] INFO  itemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-02 17:27:59.079 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-02 17:27:59.990 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-02 17:27:59.994 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-02 17:27:59.998 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-02 17:28:00.024 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-02 17:28:00.068 [main] INFO  itemaMallPlusApplication - [logStarted,61] - Started itemaMallPlusApplication in 2.561 seconds (JVM running for 3.434)
+2022-01-02 17:28:00.081 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-02 17:28:00.192 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-02 17:28:14.407 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-02 17:29:19.648 [XNIO-1 task-3] INFO  OrderController - [paySuccess,232] - 支付宝paySuccess通知数据记录：orderNo: 16411157375484708, payType：2
+2022-01-02 17:32:28.044 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-02 17:32:28.048 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-01-02 17:32:28.067 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-02 17:32:28.084 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-02 17:32:37.232 [main] INFO  itemaMallPlusApplication - [logStarting,55] - Starting itemaMallPlusApplication using Java 11.0.13 on DESKTOP-UPLS549 with PID 7916 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-02 17:32:37.235 [main] INFO  itemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-02 17:32:38.272 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-02 17:32:39.239 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-02 17:32:39.243 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-02 17:32:39.247 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-02 17:32:39.272 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-02 17:32:39.315 [main] INFO  itemaMallPlusApplication - [logStarted,61] - Started itemaMallPlusApplication in 2.599 seconds (JVM running for 3.46)
+2022-01-02 17:32:39.327 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-02 17:32:39.432 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-02 17:44:40.174 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-02 17:44:40.205 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-02 17:44:40.219 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-02 17:44:48.957 [main] INFO  itemaMallPlusApplication - [logStarting,55] - Starting itemaMallPlusApplication using Java 11.0.13 on DESKTOP-UPLS549 with PID 6524 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-02 17:44:48.960 [main] INFO  itemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-02 17:44:49.975 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-02 17:44:50.926 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-02 17:44:50.930 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-02 17:44:50.935 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-02 17:44:50.960 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-02 17:44:51.002 [main] INFO  itemaMallPlusApplication - [logStarted,61] - Started itemaMallPlusApplication in 2.563 seconds (JVM running for 3.503)
+2022-01-02 17:44:51.016 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-02 17:44:51.122 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-02 17:45:01.296 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-02 17:52:41.126 [pool-1-thread-1] INFO  OrderUnPaidTask - [run,47] - 系统开始处理延时任务---订单超时未付款--- 115
+2022-01-02 17:52:41.386 [pool-1-thread-1] INFO  OrderUnPaidTask - [run,93] - 系统结束处理延时任务---订单超时未付款--- 115
+2022-01-02 18:47:55.092 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-02 18:47:55.127 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-01-02 18:47:55.256 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-02 18:47:55.300 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-02 18:48:11.824 [main] INFO  itemaMallPlusApplication - [logStarting,55] - Starting itemaMallPlusApplication using Java 11.0.13 on DESKTOP-UPLS549 with PID 2460 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-02 18:48:11.827 [main] INFO  itemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-02 18:48:16.370 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-02 18:48:17.715 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-02 18:48:17.719 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-02 18:48:17.724 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-02 18:48:17.752 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-02 18:48:17.810 [main] INFO  itemaMallPlusApplication - [logStarted,61] - Started itemaMallPlusApplication in 7.528 seconds (JVM running for 11.351)
+2022-01-02 18:48:17.823 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-02 18:48:17.993 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-02 18:48:39.671 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-02 19:13:16.931 [pool-1-thread-1] INFO  OrderUnPaidTask - [run,47] - 系统开始处理延时任务---订单超时未付款--- 116
+2022-01-02 19:13:17.200 [pool-1-thread-1] INFO  OrderUnPaidTask - [run,93] - 系统结束处理延时任务---订单超时未付款--- 116
+2022-01-02 20:17:10.908 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-02 20:17:10.941 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-01-02 20:17:11.138 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-02 20:17:11.293 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-02 20:17:25.049 [main] INFO  itemaMallPlusApplication - [logStarting,55] - Starting itemaMallPlusApplication using Java 11.0.13 on DESKTOP-UPLS549 with PID 15404 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-02 20:17:25.052 [main] INFO  itemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-02 20:17:27.281 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-02 20:17:28.781 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-02 20:17:28.785 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-02 20:17:28.790 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-02 20:17:28.815 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-02 20:17:28.885 [main] INFO  itemaMallPlusApplication - [logStarted,61] - Started itemaMallPlusApplication in 4.769 seconds (JVM running for 7.967)
+2022-01-02 20:17:28.898 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-02 20:17:29.014 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-02 20:17:33.443 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-02 20:57:03.557 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-02 20:57:03.572 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-01-02 20:57:03.712 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-02 20:57:03.768 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-02 20:57:17.199 [main] INFO  itemaMallPlusApplication - [logStarting,55] - Starting itemaMallPlusApplication using Java 11.0.13 on DESKTOP-UPLS549 with PID 6444 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-02 20:57:17.202 [main] INFO  itemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-02 20:57:22.921 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-02 20:57:25.205 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-02 20:57:25.210 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-02 20:57:25.214 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-02 20:57:25.239 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-02 20:57:25.284 [main] INFO  itemaMallPlusApplication - [logStarted,61] - Started itemaMallPlusApplication in 9.03 seconds (JVM running for 11.531)
+2022-01-02 20:57:25.310 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-02 20:57:25.459 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-02 20:57:25.492 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-02 21:01:42.652 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-02 21:01:42.657 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-01-02 21:01:42.676 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-02 21:01:42.695 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-02 21:01:51.198 [main] INFO  itemaMallPlusApplication - [logStarting,55] - Starting itemaMallPlusApplication using Java 11.0.13 on DESKTOP-UPLS549 with PID 7748 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-02 21:01:51.201 [main] INFO  itemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-02 21:01:52.183 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-02 21:01:53.079 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-02 21:01:53.083 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-02 21:01:53.087 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-02 21:01:53.111 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-02 21:01:53.150 [main] INFO  itemaMallPlusApplication - [logStarted,61] - Started itemaMallPlusApplication in 2.465 seconds (JVM running for 3.86)
+2022-01-02 21:01:53.163 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-02 21:01:53.273 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-02 21:02:05.165 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-02 21:03:32.878 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-02 21:03:32.881 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-01-02 21:03:32.904 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-02 21:03:32.928 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-02 21:03:38.746 [main] INFO  itemaMallPlusApplication - [logStarting,55] - Starting itemaMallPlusApplication using Java 11.0.13 on DESKTOP-UPLS549 with PID 19180 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-02 21:03:38.749 [main] INFO  itemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-02 21:03:39.773 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-02 21:03:40.671 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-02 21:03:40.675 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-02 21:03:40.680 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-02 21:03:40.702 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-02 21:03:40.750 [main] INFO  itemaMallPlusApplication - [logStarted,61] - Started itemaMallPlusApplication in 2.45 seconds (JVM running for 3.338)
+2022-01-02 21:03:40.764 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-02 21:03:40.871 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-02 21:03:51.846 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-02 21:07:16.070 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-02 21:07:16.105 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-01-02 21:07:16.134 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-02 21:07:16.263 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-02 21:07:24.175 [main] INFO  itemaMallPlusApplication - [logStarting,55] - Starting itemaMallPlusApplication using Java 11.0.13 on DESKTOP-UPLS549 with PID 6972 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-02 21:07:24.180 [main] INFO  itemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-02 21:07:25.435 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-02 21:07:26.442 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-02 21:07:26.446 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-02 21:07:26.450 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-02 21:07:26.473 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-02 21:07:26.523 [main] INFO  itemaMallPlusApplication - [logStarted,61] - Started itemaMallPlusApplication in 2.991 seconds (JVM running for 5.499)
+2022-01-02 21:07:26.538 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-02 21:07:26.647 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-02 21:07:35.133 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-02 21:20:03.367 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-02 21:20:03.372 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-01-02 21:20:03.395 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-02 21:20:03.410 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-02 21:20:11.460 [main] INFO  itemaMallPlusApplication - [logStarting,55] - Starting itemaMallPlusApplication using Java 11.0.13 on DESKTOP-UPLS549 with PID 18256 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-02 21:20:11.464 [main] INFO  itemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-02 21:20:12.833 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-02 21:20:13.791 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-02 21:20:13.795 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-02 21:20:13.800 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-02 21:20:13.825 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-02 21:20:13.865 [main] INFO  itemaMallPlusApplication - [logStarted,61] - Started itemaMallPlusApplication in 2.881 seconds (JVM running for 4.12)
+2022-01-02 21:20:13.877 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-02 21:20:13.993 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-02 21:20:20.672 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-02 21:26:38.594 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-02 21:26:38.611 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-01-02 21:26:38.632 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-02 21:26:38.642 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-02 21:26:48.223 [main] INFO  itemaMallPlusApplication - [logStarting,55] - Starting itemaMallPlusApplication using Java 11.0.13 on DESKTOP-UPLS549 with PID 3392 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-02 21:26:48.226 [main] INFO  itemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-02 21:26:49.274 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-02 21:26:50.216 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-02 21:26:50.221 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-02 21:26:50.225 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-02 21:26:50.249 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-02 21:26:50.288 [main] INFO  itemaMallPlusApplication - [logStarted,61] - Started itemaMallPlusApplication in 2.518 seconds (JVM running for 3.452)
+2022-01-02 21:26:50.301 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-02 21:26:50.400 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-02 21:26:53.107 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-02 21:41:09.653 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-02 21:41:09.658 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-01-02 21:41:09.682 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-02 21:41:09.696 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-02 21:41:56.035 [main] INFO  itemaMallPlusApplication - [logStarting,55] - Starting itemaMallPlusApplication using Java 11.0.13 on DESKTOP-UPLS549 with PID 15628 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-02 21:41:56.038 [main] INFO  itemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-02 21:41:57.040 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-02 21:41:58.009 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-02 21:41:58.013 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-02 21:41:58.017 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-02 21:41:58.042 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-02 21:41:58.089 [main] INFO  itemaMallPlusApplication - [logStarted,61] - Started itemaMallPlusApplication in 2.633 seconds (JVM running for 3.93)
+2022-01-02 21:41:58.104 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-02 21:41:58.213 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-02 21:42:11.485 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-02 21:48:18.596 [pool-1-thread-1] INFO  OrderUnPaidTask - [run,47] - 系统开始处理延时任务---订单超时未付款--- 117
+2022-01-02 21:48:19.582 [pool-1-thread-1] INFO  OrderUnPaidTask - [run,93] - 系统结束处理延时任务---订单超时未付款--- 117
+2022-01-02 21:49:20.602 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-02 21:49:20.607 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-01-02 21:49:20.624 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-02 21:49:20.637 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-02 21:49:30.271 [main] INFO  itemaMallPlusApplication - [logStarting,55] - Starting itemaMallPlusApplication using Java 11.0.13 on DESKTOP-UPLS549 with PID 15904 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-02 21:49:30.275 [main] INFO  itemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-02 21:49:31.253 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-02 21:49:32.162 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-02 21:49:32.167 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-02 21:49:32.171 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-02 21:49:32.194 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-02 21:49:32.235 [main] INFO  itemaMallPlusApplication - [logStarted,61] - Started itemaMallPlusApplication in 2.434 seconds (JVM running for 5.767)
+2022-01-02 21:49:32.248 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-02 21:49:32.356 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-02 21:49:41.927 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-02 21:54:03.393 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-02 21:54:03.397 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-01-02 21:54:03.417 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-02 21:54:03.437 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-02 21:54:34.212 [main] INFO  itemaMallPlusApplication - [logStarting,55] - Starting itemaMallPlusApplication using Java 11.0.13 on DESKTOP-UPLS549 with PID 16300 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-02 21:54:34.215 [main] INFO  itemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-02 21:54:35.498 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-02 21:54:36.478 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-02 21:54:36.482 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-02 21:54:36.487 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-02 21:54:36.510 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-02 21:54:36.551 [main] INFO  itemaMallPlusApplication - [logStarted,61] - Started itemaMallPlusApplication in 2.881 seconds (JVM running for 5.385)
+2022-01-02 21:54:36.566 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-02 21:54:36.682 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-02 21:54:56.522 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-02 21:56:04.780 [XNIO-1 task-1] INFO  OrderController - [paySuccess,240] - 支付宝paySuccess通知数据记录：orderNo: 16411317580071481, payType：2
+2022-01-02 22:15:19.184 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-02 22:15:19.219 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-01-02 22:15:19.378 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-02 22:15:19.419 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-02 22:16:36.252 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarting,55] - Starting ItemaMallPlusApplication using Java 11.0.13 on DESKTOP-UPLS549 with PID 14160 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-02 22:16:36.270 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-02 22:16:37.527 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-02 22:16:38.629 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-02 22:16:38.634 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-02 22:16:38.638 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-02 22:16:38.662 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-02 22:16:38.726 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarted,61] - Started ItemaMallPlusApplication in 3.117 seconds (JVM running for 5.131)
+2022-01-02 22:16:38.750 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-02 22:16:38.974 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-02 22:17:06.024 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-02 22:17:47.551 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-02 22:17:47.557 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-01-02 22:17:47.581 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-02 22:17:47.599 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-02 22:50:35.733 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarting,55] - Starting ItemaMallPlusApplication using Java 11.0.13 on DESKTOP-UPLS549 with PID 6820 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-02 22:50:35.736 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-02 22:50:36.792 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-02 22:50:37.757 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-02 22:50:37.761 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-02 22:50:37.766 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-02 22:50:37.789 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-02 22:50:37.828 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarted,61] - Started ItemaMallPlusApplication in 2.645 seconds (JVM running for 3.988)
+2022-01-02 22:50:37.842 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-02 22:50:37.955 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-02 22:51:04.705 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-02 23:12:11.386 [XNIO-1 task-1] INFO  ltd.itema.mall.controller.mall.OrderController - [paySuccess,242] - 支付宝paySuccess通知数据记录：orderNo: 16411363256721758, payType：2
+2022-01-02 23:13:41.540 [XNIO-1 task-1] INFO  ltd.itema.mall.controller.mall.OrderController - [paySuccess,242] - 支付宝paySuccess通知数据记录：orderNo: 16411363978487801, payType：2
+2022-01-02 23:17:10.555 [XNIO-1 task-1] INFO  ltd.itema.mall.controller.mall.OrderController - [paySuccess,242] - 支付宝paySuccess通知数据记录：orderNo: 16411366237306002, payType：2
+2022-01-02 23:24:22.833 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-02 23:24:22.873 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-01-02 23:24:23.147 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-02 23:24:23.200 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.

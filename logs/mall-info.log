@@ -1,0 +1,607 @@
+2022-01-04 00:00:01.037 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-04 00:00:01.049 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-04 00:00:01.057 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-04 00:00:01.102 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-04 00:00:01.171 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarted,61] - Started ItemaMallPlusApplication in 4.529 seconds (JVM running for 6.724)
+2022-01-04 00:00:01.192 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-04 00:00:01.362 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-04 00:00:05.600 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-04 00:05:13.688 [XNIO-1 task-6] INFO  ltd.itema.mall.controller.mall.OrderController - [paySuccess,242] - 支付宝paySuccess通知数据记录：orderNo: 16412259066825574, payType：2
+2022-01-04 00:26:46.242 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-04 00:26:46.251 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-01-04 00:26:46.298 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-04 00:26:46.335 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-04 00:27:00.092 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarting,55] - Starting ItemaMallPlusApplication using Java 11.0.13 on DESKTOP-UPLS549 with PID 10504 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-04 00:27:00.097 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-04 00:27:02.066 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-04 00:27:04.322 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-04 00:27:04.330 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-04 00:27:04.339 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-04 00:27:04.391 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-04 00:27:04.499 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarted,61] - Started ItemaMallPlusApplication in 5.272 seconds (JVM running for 7.061)
+2022-01-04 00:27:04.532 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-04 00:27:04.844 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-04 00:27:40.783 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-04 00:28:30.006 [XNIO-1 task-2] INFO  ltd.itema.mall.controller.mall.OrderController - [paySuccess,242] - 支付宝paySuccess通知数据记录：orderNo: 16412273043506467, payType：2
+2022-01-04 00:29:20.233 [XNIO-1 task-2] INFO  ltd.itema.mall.controller.mall.OrderController - [paySuccess,242] - 支付宝paySuccess通知数据记录：orderNo: 16412273555672457, payType：2
+2022-01-04 00:34:07.736 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-04 00:34:07.745 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-01-04 00:34:07.791 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-04 00:34:07.834 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-04 00:34:17.589 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarting,55] - Starting ItemaMallPlusApplication using Java 1.8.0_281 on DESKTOP-UPLS549 with PID 5632 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-04 00:34:17.607 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-04 00:34:21.738 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-04 00:34:24.964 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-04 00:34:24.973 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-04 00:34:24.984 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-04 00:34:25.196 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-04 00:34:25.367 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarted,61] - Started ItemaMallPlusApplication in 9.676 seconds (JVM running for 13.86)
+2022-01-04 00:34:25.393 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-04 00:34:25.723 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-04 00:36:50.166 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-04 00:36:50.299 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-04 00:36:50.390 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-04 00:36:56.698 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarting,55] - Starting ItemaMallPlusApplication using Java 1.8.0_281 on DESKTOP-UPLS549 with PID 16080 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-04 00:36:56.703 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-04 00:37:00.145 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-04 00:37:02.511 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-04 00:37:02.518 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-04 00:37:02.525 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-04 00:37:02.563 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-04 00:37:02.834 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarted,61] - Started ItemaMallPlusApplication in 7.391 seconds (JVM running for 10.283)
+2022-01-04 00:37:02.908 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-04 00:37:03.183 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-04 00:51:38.576 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-04 00:51:38.681 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-04 00:51:38.693 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-04 00:51:56.943 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarting,55] - Starting ItemaMallPlusApplication using Java 1.8.0_281 on DESKTOP-UPLS549 with PID 19072 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-04 00:51:56.949 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-04 00:51:59.843 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-04 00:52:01.675 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-04 00:52:01.679 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-04 00:52:01.683 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-04 00:52:01.732 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-04 00:52:01.800 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarted,61] - Started ItemaMallPlusApplication in 5.827 seconds (JVM running for 8.443)
+2022-01-04 00:52:01.814 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-04 00:52:01.961 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-04 00:53:38.253 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarting,55] - Starting ItemaMallPlusApplication using Java 1.8.0_281 on DESKTOP-UPLS549 with PID 14376 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-04 00:53:38.259 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-04 00:53:41.581 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-04 00:53:44.803 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-04 00:53:44.809 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-04 00:53:44.813 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-04 00:53:44.874 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-04 00:53:45.094 [main] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-04 00:54:30.654 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-04 00:54:30.682 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-04 00:54:30.692 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-04 00:54:45.625 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarting,55] - Starting ItemaMallPlusApplication using Java 1.8.0_281 on DESKTOP-UPLS549 with PID 16644 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-04 00:54:45.629 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-04 00:54:46.690 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-04 00:54:47.708 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-04 00:54:47.712 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-04 00:54:47.718 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-04 00:54:47.742 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-04 00:54:47.793 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarted,61] - Started ItemaMallPlusApplication in 2.683 seconds (JVM running for 3.991)
+2022-01-04 00:54:47.821 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-04 00:54:48.024 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-04 00:55:06.757 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-04 01:00:43.102 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-04 01:00:43.121 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-01-04 01:00:43.280 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-04 01:00:43.292 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-04 01:00:51.276 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarting,55] - Starting ItemaMallPlusApplication using Java 1.8.0_281 on DESKTOP-UPLS549 with PID 5164 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-04 01:00:51.310 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-04 01:00:54.787 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-04 01:00:56.612 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-04 01:00:56.618 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-04 01:00:56.622 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-04 01:00:56.679 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-04 01:00:56.745 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarted,61] - Started ItemaMallPlusApplication in 6.67 seconds (JVM running for 11.046)
+2022-01-04 01:00:56.759 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-04 01:00:56.877 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-04 01:02:23.903 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-04 01:02:23.966 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-04 01:02:23.989 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-04 01:02:29.450 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarting,55] - Starting ItemaMallPlusApplication using Java 1.8.0_281 on DESKTOP-UPLS549 with PID 6200 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-04 01:02:29.454 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-04 01:02:30.607 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-04 01:02:31.650 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-04 01:02:31.654 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-04 01:02:31.658 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-04 01:02:31.681 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-04 01:02:31.729 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarted,61] - Started ItemaMallPlusApplication in 2.787 seconds (JVM running for 3.864)
+2022-01-04 01:02:31.744 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-04 01:02:31.863 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-04 01:03:03.635 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-04 01:03:03.658 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-04 01:03:03.681 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-04 01:03:06.574 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarting,55] - Starting ItemaMallPlusApplication using Java 1.8.0_281 on DESKTOP-UPLS549 with PID 20228 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-04 01:03:06.578 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-04 01:03:07.866 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-04 01:03:08.892 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-04 01:03:08.897 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-04 01:03:08.901 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-04 01:03:08.925 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-04 01:03:08.987 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarted,61] - Started ItemaMallPlusApplication in 2.947 seconds (JVM running for 4.283)
+2022-01-04 01:03:09.005 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-04 01:03:09.132 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-04 01:04:55.524 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-04 01:04:55.552 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-04 01:04:55.585 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-04 01:04:59.971 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarting,55] - Starting ItemaMallPlusApplication using Java 1.8.0_281 on DESKTOP-UPLS549 with PID 6908 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-04 01:04:59.974 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-04 01:05:01.192 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-04 01:05:02.376 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-04 01:05:02.384 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-04 01:05:02.393 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-04 01:05:02.428 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-04 01:05:02.490 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarted,61] - Started ItemaMallPlusApplication in 3.013 seconds (JVM running for 4.148)
+2022-01-04 01:05:02.505 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-04 01:05:02.622 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-04 01:06:17.575 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-04 01:06:17.600 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-04 01:06:17.625 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-04 01:06:20.190 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarting,55] - Starting ItemaMallPlusApplication using Java 1.8.0_281 on DESKTOP-UPLS549 with PID 20400 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-04 01:06:20.194 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-04 01:06:21.377 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-04 01:06:22.457 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-04 01:06:22.461 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-04 01:06:22.465 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-04 01:06:22.491 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-04 01:06:22.539 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarted,61] - Started ItemaMallPlusApplication in 2.906 seconds (JVM running for 3.949)
+2022-01-04 01:06:22.554 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-04 01:06:22.683 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-04 01:07:51.318 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-04 01:07:51.343 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-04 01:07:51.369 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-04 01:07:54.870 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarting,55] - Starting ItemaMallPlusApplication using Java 1.8.0_281 on DESKTOP-UPLS549 with PID 10192 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-04 01:07:54.875 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-04 01:07:55.981 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-04 01:07:57.057 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-04 01:07:57.062 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-04 01:07:57.066 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-04 01:07:57.093 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-04 01:07:57.155 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarted,61] - Started ItemaMallPlusApplication in 2.742 seconds (JVM running for 3.62)
+2022-01-04 01:07:57.168 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-04 01:07:57.274 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-04 01:08:51.507 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-04 01:08:51.530 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-04 01:08:51.552 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-04 01:08:54.148 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarting,55] - Starting ItemaMallPlusApplication using Java 1.8.0_281 on DESKTOP-UPLS549 with PID 15892 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-04 01:08:54.152 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-04 01:08:55.425 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-04 01:08:56.497 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-04 01:08:56.503 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-04 01:08:56.508 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-04 01:08:56.538 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-04 01:08:56.625 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarted,61] - Started ItemaMallPlusApplication in 2.956 seconds (JVM running for 4.056)
+2022-01-04 01:08:56.642 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-04 01:08:56.744 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-04 01:13:49.163 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-04 01:13:49.188 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-04 01:13:49.211 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-04 01:13:52.984 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarting,55] - Starting ItemaMallPlusApplication using Java 1.8.0_281 on DESKTOP-UPLS549 with PID 8808 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-04 01:13:52.996 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-04 01:13:54.380 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-04 01:13:55.479 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-04 01:13:55.483 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-04 01:13:55.487 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-04 01:13:55.512 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-04 01:13:55.572 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarted,61] - Started ItemaMallPlusApplication in 3.174 seconds (JVM running for 4.223)
+2022-01-04 01:13:55.589 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-04 01:13:55.725 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-04 01:21:47.483 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-04 01:21:47.503 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-04 01:21:47.519 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-04 01:21:54.505 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarting,55] - Starting ItemaMallPlusApplication using Java 1.8.0_281 on DESKTOP-UPLS549 with PID 15396 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-04 01:21:54.509 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-04 01:21:55.578 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-04 01:21:58.088 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-04 01:21:58.094 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-04 01:21:58.100 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-04 01:21:58.134 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-04 01:21:58.208 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarted,61] - Started ItemaMallPlusApplication in 4.291 seconds (JVM running for 5.207)
+2022-01-04 01:21:58.231 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-04 01:21:58.639 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-04 01:23:25.886 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-04 01:23:25.911 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-04 01:23:25.932 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-04 01:23:29.935 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarting,55] - Starting ItemaMallPlusApplication using Java 1.8.0_281 on DESKTOP-UPLS549 with PID 6244 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-04 01:23:29.946 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-04 01:23:30.994 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-04 01:23:32.053 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-04 01:23:32.058 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-04 01:23:32.062 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-04 01:23:32.087 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-04 01:23:32.144 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarted,61] - Started ItemaMallPlusApplication in 2.841 seconds (JVM running for 3.987)
+2022-01-04 01:23:32.160 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-04 01:23:32.300 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-04 01:26:10.284 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-04 01:26:10.310 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-04 01:26:10.332 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-04 01:26:14.328 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarting,55] - Starting ItemaMallPlusApplication using Java 1.8.0_281 on DESKTOP-UPLS549 with PID 9368 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-04 01:26:14.332 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-04 01:26:15.395 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-04 01:26:16.663 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-04 01:26:16.668 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-04 01:26:16.672 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-04 01:26:16.695 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-04 01:26:16.741 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarted,61] - Started ItemaMallPlusApplication in 2.96 seconds (JVM running for 4.147)
+2022-01-04 01:26:16.757 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-04 01:26:16.878 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-04 01:27:15.029 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-04 01:27:15.053 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-04 01:27:15.074 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-04 01:27:18.015 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarting,55] - Starting ItemaMallPlusApplication using Java 1.8.0_281 on DESKTOP-UPLS549 with PID 14248 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-04 01:27:18.020 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-04 01:27:19.232 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-04 01:27:20.282 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-04 01:27:20.286 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-04 01:27:20.290 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-04 01:27:20.316 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-04 01:27:20.366 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarted,61] - Started ItemaMallPlusApplication in 3.034 seconds (JVM running for 4.085)
+2022-01-04 01:27:20.383 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-04 01:27:20.522 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-04 01:28:26.087 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-04 01:28:26.112 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-04 01:28:26.135 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-04 01:28:29.826 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarting,55] - Starting ItemaMallPlusApplication using Java 1.8.0_281 on DESKTOP-UPLS549 with PID 15840 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-04 01:28:29.840 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-04 01:28:30.969 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-04 01:28:32.128 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-04 01:28:32.132 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-04 01:28:32.136 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-04 01:28:32.164 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-04 01:28:32.229 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarted,61] - Started ItemaMallPlusApplication in 2.98 seconds (JVM running for 3.958)
+2022-01-04 01:28:32.243 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-04 01:28:32.369 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-04 01:29:07.438 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-04 01:29:07.463 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-04 01:29:07.519 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-04 01:29:10.893 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarting,55] - Starting ItemaMallPlusApplication using Java 1.8.0_281 on DESKTOP-UPLS549 with PID 2580 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-04 01:29:10.896 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-04 01:29:12.168 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-04 01:29:13.313 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-04 01:29:13.318 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-04 01:29:13.323 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-04 01:29:13.346 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-04 01:29:13.393 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarted,61] - Started ItemaMallPlusApplication in 3.075 seconds (JVM running for 4.253)
+2022-01-04 01:29:13.408 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-04 01:29:13.532 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-04 01:29:25.449 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-04 01:30:24.711 [XNIO-1 task-3] INFO  ltd.itema.mall.controller.mall.OrderController - [paySuccess,242] - 支付宝paySuccess通知数据记录：orderNo: 16412310187619342, payType：2
+2022-01-04 01:50:09.735 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-04 01:50:09.777 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-01-04 01:50:10.045 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-04 01:50:10.072 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-04 01:50:24.472 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarting,55] - Starting ItemaMallPlusApplication using Java 1.8.0_281 on DESKTOP-UPLS549 with PID 9384 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-04 01:50:24.483 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-04 01:50:30.313 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-04 01:50:36.704 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-04 01:50:36.732 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-04 01:50:36.751 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-04 01:50:36.920 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-04 01:50:37.038 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarted,61] - Started ItemaMallPlusApplication in 14.59 seconds (JVM running for 18.9)
+2022-01-04 01:50:37.068 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-04 01:50:37.412 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-04 01:50:37.703 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-04 01:52:15.755 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-04 01:52:15.761 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-01-04 01:52:15.792 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-04 01:52:15.827 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-04 01:52:23.426 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarting,55] - Starting ItemaMallPlusApplication using Java 1.8.0_281 on DESKTOP-UPLS549 with PID 10892 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-04 01:52:23.432 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-04 01:52:26.217 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-04 01:52:30.683 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-04 01:52:30.707 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-04 01:52:30.733 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-04 01:52:30.866 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-04 01:52:31.187 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarted,61] - Started ItemaMallPlusApplication in 8.943 seconds (JVM running for 11.141)
+2022-01-04 01:52:31.269 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-04 01:52:31.286 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-04 01:52:31.682 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-04 02:47:30.920 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-04 02:47:30.943 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-01-04 02:47:31.287 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-04 02:47:31.302 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-04 11:45:05.778 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarting,55] - Starting ItemaMallPlusApplication using Java 1.8.0_281 on DESKTOP-UPLS549 with PID 3320 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-04 11:45:05.843 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-04 11:45:11.912 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-04 11:45:15.228 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-04 11:45:15.260 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-04 11:45:15.260 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-04 11:45:15.369 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-04 11:45:15.478 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarted,61] - Started ItemaMallPlusApplication in 12.835 seconds (JVM running for 18.903)
+2022-01-04 11:45:15.497 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-04 11:45:21.061 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-04 11:45:35.489 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-04 11:54:55.400 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-04 11:54:55.431 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-01-04 11:54:55.613 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-04 11:54:55.629 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-04 11:55:07.497 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarting,55] - Starting ItemaMallPlusApplication using Java 1.8.0_281 on DESKTOP-UPLS549 with PID 9736 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-04 11:55:07.497 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-04 11:55:10.204 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-04 11:55:12.193 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-04 11:55:12.193 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-04 11:55:12.193 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-04 11:55:12.255 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-04 11:55:12.302 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarted,61] - Started ItemaMallPlusApplication in 5.884 seconds (JVM running for 10.638)
+2022-01-04 11:55:12.318 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-04 11:55:12.772 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-04 11:55:37.691 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-04 11:58:13.170 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-04 11:58:13.170 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-01-04 11:58:13.186 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-04 11:58:13.217 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-04 11:58:20.206 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarting,55] - Starting ItemaMallPlusApplication using Java 1.8.0_281 on DESKTOP-UPLS549 with PID 10136 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-04 11:58:20.221 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-04 11:58:21.285 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-04 11:58:22.277 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-04 11:58:22.277 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-04 11:58:22.277 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-04 11:58:22.293 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-04 11:58:22.344 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarted,61] - Started ItemaMallPlusApplication in 3.469 seconds (JVM running for 6.09)
+2022-01-04 11:58:22.360 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-04 11:58:22.490 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-04 11:58:56.159 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-04 12:05:17.409 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-04 12:05:17.409 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-01-04 12:05:17.425 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-04 12:05:17.440 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-04 12:05:21.896 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarting,55] - Starting ItemaMallPlusApplication using Java 1.8.0_281 on DESKTOP-UPLS549 with PID 10572 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-04 12:05:21.896 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-04 12:05:23.405 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-04 12:05:25.296 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-04 12:05:25.296 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-04 12:05:25.296 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-04 12:05:25.334 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-04 12:05:25.382 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarted,61] - Started ItemaMallPlusApplication in 4.22 seconds (JVM running for 5.116)
+2022-01-04 12:05:25.397 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-04 12:05:25.605 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-04 12:05:42.214 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-04 12:11:55.262 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-04 12:11:55.262 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-01-04 12:11:55.293 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-04 12:11:55.309 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-04 12:11:59.483 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarting,55] - Starting ItemaMallPlusApplication using Java 1.8.0_281 on DESKTOP-UPLS549 with PID 9504 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-04 12:11:59.498 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-04 12:12:01.425 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-04 12:12:02.419 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-04 12:12:02.419 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-04 12:12:02.419 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-04 12:12:02.450 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-04 12:12:02.502 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarted,61] - Started ItemaMallPlusApplication in 3.897 seconds (JVM running for 5.077)
+2022-01-04 12:12:02.533 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-04 12:12:02.633 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-04 12:12:42.023 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-04 12:13:28.348 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-04 12:13:28.348 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-01-04 12:13:28.379 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-04 12:13:28.395 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-04 12:13:33.915 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarting,55] - Starting ItemaMallPlusApplication using Java 1.8.0_281 on DESKTOP-UPLS549 with PID 10048 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-04 12:13:33.915 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-04 12:13:35.259 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-04 12:13:36.288 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-04 12:13:36.288 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-04 12:13:36.288 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-04 12:13:36.325 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-04 12:13:36.357 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarted,61] - Started ItemaMallPlusApplication in 2.983 seconds (JVM running for 4.819)
+2022-01-04 12:13:36.373 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-04 12:13:36.487 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-04 12:13:42.895 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-04 12:14:53.404 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-04 12:14:53.404 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-01-04 12:14:53.425 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-04 12:14:53.440 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-04 12:15:00.421 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarting,55] - Starting ItemaMallPlusApplication using Java 1.8.0_281 on DESKTOP-UPLS549 with PID 8932 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-04 12:15:00.437 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-04 12:15:02.577 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-04 12:15:03.699 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-04 12:15:03.699 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-04 12:15:03.715 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-04 12:15:03.731 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-04 12:15:03.783 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarted,61] - Started ItemaMallPlusApplication in 5.15 seconds (JVM running for 7.373)
+2022-01-04 12:15:03.799 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-04 12:15:03.930 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-04 12:16:19.498 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-04 12:16:32.651 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-04 12:16:32.651 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-01-04 12:16:32.683 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-04 12:16:32.698 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-04 12:16:38.550 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarting,55] - Starting ItemaMallPlusApplication using Java 1.8.0_281 on DESKTOP-UPLS549 with PID 8504 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-04 12:16:38.566 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-04 12:16:40.580 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-04 12:16:41.670 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-04 12:16:41.670 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-04 12:16:41.686 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-04 12:16:41.701 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-04 12:16:41.748 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarted,61] - Started ItemaMallPlusApplication in 4.411 seconds (JVM running for 6.128)
+2022-01-04 12:16:41.764 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-04 12:16:41.880 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-04 12:17:01.222 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-04 12:19:45.749 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-04 12:19:45.760 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-01-04 12:19:45.790 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-04 12:19:45.800 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-04 12:19:49.404 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarting,55] - Starting ItemaMallPlusApplication using Java 1.8.0_281 on DESKTOP-UPLS549 with PID 12228 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-04 12:19:49.419 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-04 12:19:50.473 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-04 12:19:51.468 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-04 12:19:51.468 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-04 12:19:51.468 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-04 12:19:51.500 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-04 12:19:51.549 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarted,61] - Started ItemaMallPlusApplication in 2.671 seconds (JVM running for 3.604)
+2022-01-04 12:19:51.565 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-04 12:19:51.658 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-04 12:20:50.660 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-04 12:42:11.850 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-04 12:42:11.870 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-01-04 12:42:12.045 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-04 12:42:12.055 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-04 12:42:26.017 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarting,55] - Starting ItemaMallPlusApplication using Java 1.8.0_281 on DESKTOP-UPLS549 with PID 11260 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-04 12:42:26.017 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-04 12:42:29.454 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-04 12:42:31.055 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-04 12:42:31.065 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-04 12:42:31.065 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-04 12:42:31.116 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-04 12:42:31.197 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarted,61] - Started ItemaMallPlusApplication in 6.657 seconds (JVM running for 12.469)
+2022-01-04 12:42:31.238 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-04 12:42:31.405 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-04 12:42:44.129 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-04 12:50:48.655 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-04 12:50:48.655 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-01-04 12:50:48.686 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-04 12:50:48.702 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-04 12:50:56.395 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarting,55] - Starting ItemaMallPlusApplication using Java 1.8.0_281 on DESKTOP-UPLS549 with PID 9112 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-04 12:50:56.395 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-04 12:50:57.599 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-04 12:50:59.868 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-04 12:50:59.872 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-04 12:50:59.872 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-04 12:50:59.910 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-04 12:50:59.989 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarted,61] - Started ItemaMallPlusApplication in 4.154 seconds (JVM running for 6.582)
+2022-01-04 12:51:00.000 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-04 12:51:00.120 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-04 12:51:55.474 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-04 12:57:44.544 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-04 12:57:44.575 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-01-04 12:57:44.685 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-04 12:57:44.685 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-04 12:57:56.655 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarting,55] - Starting ItemaMallPlusApplication using Java 1.8.0_281 on DESKTOP-UPLS549 with PID 11012 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-04 12:57:56.659 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-04 12:58:01.764 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-04 12:58:03.600 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-04 12:58:03.604 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-04 12:58:03.608 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-04 12:58:03.720 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-04 12:58:03.830 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarted,61] - Started ItemaMallPlusApplication in 8.201 seconds (JVM running for 12.297)
+2022-01-04 12:58:03.845 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-04 12:58:04.049 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-04 12:58:04.063 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-04 12:58:19.506 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-04 12:58:19.506 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-01-04 12:58:19.522 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-04 12:58:19.553 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-04 12:58:23.471 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarting,55] - Starting ItemaMallPlusApplication using Java 1.8.0_281 on DESKTOP-UPLS549 with PID 5624 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-04 12:58:23.487 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-04 12:58:26.013 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-04 12:58:29.800 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-04 12:58:29.805 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-04 12:58:29.809 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-04 12:58:29.835 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-04 12:58:29.883 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarted,61] - Started ItemaMallPlusApplication in 6.977 seconds (JVM running for 8.221)
+2022-01-04 12:58:29.898 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-04 12:58:30.011 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-04 12:58:30.541 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-04 13:01:23.217 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-04 13:01:23.217 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-01-04 13:01:23.233 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-04 13:01:23.264 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-04 13:01:29.584 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarting,55] - Starting ItemaMallPlusApplication using Java 1.8.0_281 on DESKTOP-UPLS549 with PID 4336 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-04 13:01:29.584 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-04 13:01:30.720 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-04 13:01:31.890 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-04 13:01:31.900 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-04 13:01:31.900 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-04 13:01:31.926 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-04 13:01:31.973 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarted,61] - Started ItemaMallPlusApplication in 4.07 seconds (JVM running for 5.774)
+2022-01-04 13:01:31.989 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-04 13:01:32.101 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-04 13:01:39.779 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-04 13:02:15.132 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-04 13:02:15.132 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-01-04 13:02:15.152 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-04 13:02:15.173 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-04 13:02:22.421 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarting,55] - Starting ItemaMallPlusApplication using Java 1.8.0_281 on DESKTOP-UPLS549 with PID 1492 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-04 13:02:22.421 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-04 13:02:23.504 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-04 13:02:24.521 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-04 13:02:24.521 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-04 13:02:24.521 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-04 13:02:24.553 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-04 13:02:24.617 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarted,61] - Started ItemaMallPlusApplication in 4.119 seconds (JVM running for 6.754)
+2022-01-04 13:02:24.633 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-04 13:02:24.727 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-04 13:02:46.731 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-04 13:04:41.462 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-04 13:04:41.462 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-01-04 13:04:41.493 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-04 13:04:41.509 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-04 13:04:47.763 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarting,55] - Starting ItemaMallPlusApplication using Java 1.8.0_281 on DESKTOP-UPLS549 with PID 11660 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-04 13:04:47.778 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-04 13:04:50.302 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-04 13:04:51.360 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-04 13:04:51.360 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-04 13:04:51.370 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-04 13:04:51.390 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-04 13:04:51.441 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarted,61] - Started ItemaMallPlusApplication in 4.778 seconds (JVM running for 7.557)
+2022-01-04 13:04:51.451 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-04 13:04:51.562 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-04 13:05:00.329 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-04 13:05:31.345 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-04 13:05:31.345 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-01-04 13:05:31.361 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-04 13:05:31.392 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-04 13:05:37.316 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarting,55] - Starting ItemaMallPlusApplication using Java 1.8.0_281 on DESKTOP-UPLS549 with PID 3360 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-04 13:05:37.316 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-04 13:05:39.685 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-04 13:05:40.749 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-04 13:05:40.749 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-04 13:05:40.749 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-04 13:05:40.768 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-04 13:05:40.833 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarted,61] - Started ItemaMallPlusApplication in 4.878 seconds (JVM running for 6.571)
+2022-01-04 13:05:40.846 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-04 13:05:40.969 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-04 13:05:44.143 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-04 13:07:56.547 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-04 13:07:56.547 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-01-04 13:07:56.568 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-04 13:07:56.593 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-04 13:08:01.144 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarting,55] - Starting ItemaMallPlusApplication using Java 1.8.0_281 on DESKTOP-UPLS549 with PID 11824 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-04 13:08:01.145 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-04 13:08:02.261 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-04 13:08:03.358 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-04 13:08:03.373 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-04 13:08:03.373 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-04 13:08:03.389 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-04 13:08:03.440 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarted,61] - Started ItemaMallPlusApplication in 3.0 seconds (JVM running for 4.397)
+2022-01-04 13:08:03.456 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-04 13:08:03.555 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-04 13:08:05.386 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-04 13:08:55.904 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-04 13:08:55.904 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-01-04 13:08:55.924 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-01-04 13:08:55.934 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-01-04 13:08:59.751 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarting,55] - Starting ItemaMallPlusApplication using Java 1.8.0_281 on DESKTOP-UPLS549 with PID 2756 (E:\javaweb\dx1\target\classes started by seaandsky佳 in E:\javaweb\dx1)
+2022-01-04 13:08:59.766 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-04 13:09:00.815 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-04 13:09:01.813 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-04 13:09:01.829 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-04 13:09:01.829 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-04 13:09:01.844 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-04 13:09:01.891 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarted,61] - Started ItemaMallPlusApplication in 2.631 seconds (JVM running for 3.833)
+2022-01-04 13:09:01.908 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-04 13:09:02.037 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-04 13:09:11.885 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-04 15:03:29.284 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarting,55] - Starting ItemaMallPlusApplication using Java 11.0.13 on DESKTOP-UPLS549 with PID 2300 (E:\javaweb\itemamall1\target\classes started by seaandsky佳 in E:\javaweb\itemamall1)
+2022-01-04 15:03:29.315 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-04 15:03:32.189 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-04 15:03:34.078 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-04 15:03:34.094 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-04 15:03:34.094 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-04 15:03:34.109 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-04 15:03:34.187 [main] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.12.Final
+2022-01-04 15:03:57.579 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarting,55] - Starting ItemaMallPlusApplication using Java 11.0.13 on DESKTOP-UPLS549 with PID 6580 (E:\javaweb\itemamall1\target\classes started by seaandsky佳 in E:\javaweb\itemamall1)
+2022-01-04 15:03:57.579 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStartupProfileInfo,663] - The following profiles are active: dev
+2022-01-04 15:03:58.690 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-01-04 15:03:59.836 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.12.Final
+2022-01-04 15:03:59.836 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.4.Final
+2022-01-04 15:03:59.836 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.4.Final
+2022-01-04 15:03:59.867 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-01-04 15:04:00.010 [main] INFO  ltd.itema.mall.ItemaMallPlusApplication - [logStarted,61] - Started ItemaMallPlusApplication in 2.916 seconds (JVM running for 4.317)
+2022-01-04 15:04:00.026 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-01-04 15:04:00.689 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-01-04 15:04:13.064 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
