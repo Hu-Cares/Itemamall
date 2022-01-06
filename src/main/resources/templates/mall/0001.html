@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+
+<head>
+  <meta charset="UTF-8">
+<!--  <meta http-equiv="refresh" content="3;url=http://localhost:28079">-->
+  <title>圣诞树</title>
+  <link rel="stylesheet" th:href="@{/mall/css/christmas.css}"/>
+  <link rel="stylesheet" th:href="@{/mall/css/snow.css}">
+</head>
+
+<body>
+<div class="snow-container">
+  <div class="snow foreground"></div>
+  <div class="snow foreground layered"></div>
+  <div class="snow middleground"></div>
+  <div class="snow middleground layered"></div>
+  <div class="snow background"></div>
+  <div class="snow background layered"></div>
+</div>
+
+<div class="word">ITEMA</div>
+<div class="tree">
+  <div class="star">
+    <div class="star-in"></div>
+  </div>
+  <!--树叶-->
+  <div class="leaf-box">
+    <div class="leaf">
+      <div class="edge"></div>
+      <div class="edge right"></div>
+    </div>
+    <div class="leaf">
+      <div class="edge"></div>
+      <div class="edge right"></div>
+    </div>
+    <div class="leaf">
+      <div class="edge"></div>
+      <div class="edge right"></div>
+    </div>
+    <div class="leaf">
+      <div class="edge"></div>
+      <div class="edge right"></div>
+    </div>
+    <div class="leaf">
+      <div class="edge"></div>
+      <div class="edge right"></div>
+    </div>
+  </div>
+  <!--树干-->
+  <div class="trunk"></div>
+  <!--彩色的球-->
+  <div class="ball-box">
+    <div class="ball b1"></div>
+    <div class="ball b2"></div>
+    <div class="ball b3"></div>
+    <div class="ball b4"></div>
+    <div class="ball b5"></div>
+    <div class="ball b6"></div>
+    <div class="ball b7"></div>
+    <div class="ball b8"></div>
+    <div class="ball b9"></div>
+  </div>
+  <!--闪烁--->
+  <div class="sparkle">
+    <span>I</span>
+    <span>T</span>
+    <span>E</span>
+    <span>M</span>
+    <span style="left: 38%;top: 12%;font-size: 16px;color: gold">A</span>
+  </div>
+  <div class="blink">
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+  </div>
+</div>
+
+
+<p class="load" id="time01" style="position: absolute ;top:85%;left: 45%">5秒后进入首页</p>
+
+
+<script>
+  var t = 5;//自定义时间为5秒
+  setInterval("jishi()", 1000); //定时器，每间隔1秒钟调用一次函数
+  function jishi() {
+    if (t == 1) {
+      location = '/index.html';  //缓冲完成后，页面跳转到首页
+    }
+    t--; //自减，实现倒计时
+    document.getElementById("time01").innerHTML = t + "秒后进入首页";
+  };
+</script>
+</body>
+</html>

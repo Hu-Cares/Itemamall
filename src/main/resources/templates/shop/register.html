@@ -11,7 +11,7 @@
 <body>
 <div class="top center">
     <div class="logo center">
-        <a th:href="@{/index}" target="_blank"><img src="mall/image/login-logo-2.png" alt=""></a>
+        <a th:href="@{/index}" target="_blank"><img src="mall/image/login-logo-3.png" alt=""></a>
     </div>
 </div>
 
@@ -19,40 +19,32 @@
     <div class="login">
         <div class="login_center">
             <div class="login_top">
-                <div class="left fl">商家注册</div>
-                <div class="right fr">您已有个人小店？<a th:href="@{/shop_login}" target="_self">请登录</a></div>
+                <div class="left fl">BUILD A STORE</div>
+                <div class="right fr">Already have a personal store?<a th:href="@{/shop_login}" target="_self">&nbsp;LOG IN</a></div>
                 <div class="clear"></div>
                 <div class="under-line center"></div>
             </div>
             <form id="registerForm" onsubmit="return false;" action="##">
                 <div class="login_main center">
-                    <div class="login-info">店铺名称：<input class="login-info-input" type="text" name="shopName"
-                                                        id="shopName"
-                                                        placeholder="请输入你的店铺ID"/>
+                    <div class="login-info">店铺ID:&nbsp;<input class="login-info-input" type="text" name="shopName"
+                                                              id="shopName"
+                                                              placeholder="请输入你的店铺ID"/>
                     </div>
-                    <div class="login-info">姓名：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input class="login-info-input" type="text" name="realName"
-                                                                                                      id="realName"
-                                                                                                      placeholder="请输入你的姓名"/>
-                    </div>
-                    <div class="login-info">身份证：&nbsp;&nbsp;&nbsp;&nbsp;<input class="login-info-input" type="text" name="idCard"
+                    <div class="login-info">姓&nbsp;&nbsp;&nbsp;&nbsp;名:&nbsp;<input class="login-info-input" type="text" name="realName"
+                                                                                    id="realName"
+                                                                                    placeholder="请输入你的姓名"/></div>
+                    <div class="login-info">身份证:&nbsp;<input class="login-info-input" type="text" name="idCard"
                                                                                id="idCard"
                                                                                placeholder="请输入你的身份证"/>
                     </div>
                     <input class="login-info-input" type="hidden" name="loginName"
                            id="loginName"
                            placeholder="请输入你的手机号" th:value="${session.itemaMallUser.loginName}"/>
-                    <!--
-                    <div class="login-info">密&nbsp;&nbsp;&nbsp;&nbsp;码:&nbsp;<input class="login-info-input"
-                                                                                    id="password"
-                                                                                    type="password"
-                                                                                    name="password"
-                                                                                    placeholder="请输入你的密码"/>
-                    </div>
-                             -->
-                    <div class="login-info">验证码:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <div class="login-info">
+                        验证码:
                         <input class="login-info-input verify-code" type="text" name="verifyCode"
                                placeholder="请输入验证码" id="verifyCode"/>
-                        <img alt="单击图片刷新！" style="top: 16px;position: relative;" th:src="@{/common/mall/kaptcha}"
+                        <img alt="单击图片刷新！" style="top: 10px;position: relative;" th:src="@{/common/mall/kaptcha}"
                              onclick="this.src='/common/mall/kaptcha?d='+new Date()*1">
                     </div>
                 </div>

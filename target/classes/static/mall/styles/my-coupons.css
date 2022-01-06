@@ -34,7 +34,7 @@
 }
 
 #personal .self-info .lfnav .title_list ul li .active {
-    color: #FFAA42;
+    color: #950808;
     font-weight: bold;
 }
 
@@ -105,7 +105,7 @@
 }
 
 #personal .self-info .intro .info_item span a:hover {
-    color: #FFAA42;
+    color: #950808;
 }
 
 .uc-main-box {
@@ -152,11 +152,11 @@
 }
 
 .uc-content-box .box-hd .filter-list li.tab-active, .uc-content-box .box-hd .filter-list li.active {
-    color: #FFAA42;
+    color: #950808;
 }
 
 .box-hd .filter-list li.active a {
-    color: #FFAA42;
+    color: #950808;
 }
 
 .uc-content-box .box-hd .filter-list li {
@@ -257,7 +257,7 @@
 }
 
 .uc-order-item-list .order-status-need-pay {
-    color: #FFAA42;
+    color: #950808;
 }
 
 .uc-order-item-list .order-status-success {
@@ -399,7 +399,7 @@ a {
 .btn-line-pay {
     border-color: #b0b0b0;
     background: #fff;
-    color: #FFAA42;
+    color: #950808;
 }
 
 .btn-small {
@@ -491,7 +491,7 @@ a {
 }
 
 .quan-item .q-price-active {
-    color: #FFAA42;
+    color: #950808;
 }
 
 .quan-item .q-price-expire {
@@ -556,7 +556,7 @@ a {
 }
 
 .quan-d-item .q-lable {
-    background: #FFAA42;
+    background: #950808;
 }
 
 .quan-item .q-lable {
@@ -572,7 +572,7 @@ a {
 }
 
 .quan-item .q-active {
-    background: #FFAA42;
+    background: #950808;
 }
 
 .quan-item .q-expire {

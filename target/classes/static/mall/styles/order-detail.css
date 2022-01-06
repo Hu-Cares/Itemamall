@@ -34,7 +34,7 @@
 }
 
 #personal .self-info .lfnav .title_list ul li .active {
-    color: #FFAA42;
+    color: #950808;
     font-weight: bold;
 }
 
@@ -105,7 +105,7 @@
 }
 
 #personal .self-info .intro .info_item span a:hover {
-    color: #FFAA42;
+    color: #950808;
 }
 
 .uc-main-box {
@@ -209,19 +209,19 @@
     height: 38px;
     padding: 0;
     margin: 0;
-    border: 1px solid #FFAA42;
+    border: 1px solid #950808;
     font-size: 14px;
     line-height: 38px;
     text-align: center;
-    color: #FFAA42;
+    color: #950808;
     cursor: pointer;
     -webkit-transition: all .4s;
     transition: all .4s;
 }
 
 .btn-primary {
-    background: #FFAA42;
-    border-color: #FFAA42;
+    background: #950808;
+    border-color: #950808;
     color: #fff;
 }
 
@@ -238,7 +238,7 @@
     margin-bottom: 25px;
 }
 .uc-order-item-pay .order-status, .uc-order-item-pay .order-desc {
-    color: #FFAA42;
+    color: #950808;
 }
 .uc-order-item .order-status {
     font-size: 18px;
@@ -248,7 +248,7 @@
     margin: -15px 0 25px;
 }
 .uc-order-item-pay .order-status, .uc-order-item-pay .order-desc {
-    color: #FFAA42;
+    color: #950808;
 }
 .uc-order-item .order-desc {
     margin: 10px 0 0;
@@ -447,7 +447,7 @@ td {
 }
 .order-view-box .uc-order-item .order-detail-total .total-table td {
     text-align: right;
-    color: #FFAA42;
+    color: #950808;
 }
 
 .order-view-box .uc-order-item .order-detail-total .total-table th.total, .order-view-box .uc-order-item .order-detail-total .total-table td.total {

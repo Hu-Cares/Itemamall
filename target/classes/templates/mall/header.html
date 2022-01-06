@@ -31,10 +31,13 @@
         <!--个人或商家进入，左上角-->
         <ul class="fl">
             <li><a th:href="@{/index}">&nbsp;&nbsp;FRONT PAGE&nbsp;&nbsp;</a></li>
-            <li><a th:href="@{/admin/login}" >&nbsp;&nbsp;ADMIN&nbsp;&nbsp;</a></li>
-            <li><a th:href="@{/shop}">&nbsp;&nbsp;MY SHOP&nbsp;&nbsp;</a></li>
+            <li><a th:href="@{/admin/login}" >&nbsp;&nbsp;ADMIN&nbsp;&nbsp;</a></li>>
+            <li><a th:href="@{/shop}">&nbsp;&nbsp;MY SHOP&nbsp;&nbsp;</a></li>>
         </ul>
+        <center><a th:href="@{/index}" >
+            <img style="height: 30%;width: 30%" src= "mall/image/ITEMA.png" ></a></center>
         <!--右上角-->
+
         <div class="fr">
             <th:block th:unless="${session.itemaMallUser==null}">
                 <div class="user">

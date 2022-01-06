@@ -11,15 +11,15 @@
 <body>
 <div class="top center">
     <div class="logo center">
-        <a href="../mall/index.html" target="_blank"><img src="mall/image/login-logo-2.png" alt=""></a>
+        <a href="../mall/index.html" target="_blank"><img src="mall/image/login-logo-3.png" alt=""></a>
     </div>
 </div>
 <div class="form center">
     <div class="login">
         <div class="login_center">
             <div class="login_top">
-                <div class="left fl">商家登录</div>
-                <div class="right fr">您还没有自己的小店？<a th:href="@{/shop_register}" target="_self">立即注册</a></div>
+                <div class="left fl">STORE LOG IN</div>
+                <div class="right fr">Do not have your own shop yet?<a th:href="@{/shop_register}" target="_self">&nbsp;SIGN IN</a></div>
                 <div class="clear"></div>
                 <div class="under-line center"></div>
             </div>
@@ -38,7 +38,7 @@
                         验证码:&nbsp;
                         <input class="login-info-input verify-code" type="text" name="verifyCode"
                                placeholder="请输入验证码" id="verifyCode"/>
-                        <img alt="单击图片刷新！" style="top: 16px;position: relative;" th:src="@{/common/mall/kaptcha}"
+                        <img alt="单击图片刷新！" style="top: 10px;position: relative;" th:src="@{/common/mall/kaptcha}"
                              onclick="this.src='/common/mall/kaptcha?d='+new Date()*1">
                     </div>
                 </div>

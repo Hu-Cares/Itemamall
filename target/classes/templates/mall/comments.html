@@ -6,17 +6,17 @@
 <header th:replace="mall/header::header-fragment"></header>
 
 <style>
-    .table tr td {border:20px solid white;background-color: #fff5e9;}
+    .table tr td {border:20px solid white;background-color: #e1e1e1;}
     *{margin:0px;padding:0px;}
     .comment{
-        margin-top:4% ;margin-left:12%;padding:2%;width:68%;background-color: #fff5e9;
-        border: 20px dashed #fff5e9;border-radius:1em;position:relative;display:a;
+        margin-top:4% ;margin-left:12%;padding:2%;width:68%;background-color: #e1e1e1;
+        border: 20px dashed #e1e1e1;border-radius:1em;position:relative;display:a;
     }
-    .comment:hover img{border-radius:1em;border: 2px solid #FFAA42;}
-    .comment:hover{background-color:#fff5e9;}
-    .comment img{width:90px;position:absolute;top:-1%;left:-15%;border-radius:2em;border:2px solid #FFAA42;}
+    .comment:hover img{border-radius:1em;border: 2px solid #950808;}
+    .comment:hover{background-color:#e1e1e1;}
+    .comment img{width:90px;position:absolute;top:-1%;left:-15%;border-radius:2em;border:2px solid #950808;}
     .comment p{text-indent:2em; margin-top:-2%;}
-    .comment .up{color:#FFAA42;text-decoration:none;position:absolute;bottom:-6px;right:8%;}
+    .comment .up{color:#950808;text-decoration:none;position:absolute;bottom:-6px;right:8%;}
     .comment .up:hover{color:#000;}
 
 </style>
@@ -37,7 +37,7 @@
     <div class="intro mt20 w clearfix" style="height: 900px">
         <div class="center fr">
             <div class="return fr">
-                <a style="color:#FFAA42;float:none;text-decoration: underline;"
+                <a style="color:#950808;float:none;text-decoration: underline;"
                    th:href="@{'/goods/detail/'+${goodsDetail.goodsId}}">返回商品详情</a>
             </div>
 
@@ -45,7 +45,7 @@
                 <th:block>
                     <div class='comment'
                          th:each="Comments:${Comments}" ><!--th:src="@{/mall/image/favicon.png}"-->
-                        <img src='img/1.png' alt='匿名用户' th:each="Comments:${Comments}"/>
+                        <img src='/mall/image/1.png' th:each="Comments:${Comments}"/><!--alt='匿名用户'-->
                         <p th:each="Comments:${Comments}" th:text="${Comments}"></p>
                         <a class='up' href="" th:each="Comments:${Comments}">回复&nbsp;&nbsp;&nbsp;&nbsp;赞</a>
                     </div>

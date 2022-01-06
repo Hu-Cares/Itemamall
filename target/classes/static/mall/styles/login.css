@@ -1,11 +1,11 @@
 body {
-    background: #F1D589;
+    background: #000;
 }
 
 .top {
     width: 100%;
     height: 100px;
-    background: #fff;
+    background: #000;
 }
 
 .top .logo {
@@ -26,9 +26,9 @@ body {
 
 .form .login {
     width: 400px;
-    height: 470px;
+    /*height: 470px;*/
     margin: 30px auto;
-    background: #444;
+    background: #000;
     color: #fff;
     margin-right: 0px;
     border-radius: 4px;
@@ -63,17 +63,17 @@ body {
 }
 
 .form .login .login_center .login_top .right a {
-    color: #FFAA42;
+    color: #950808;
     font-weight: bold;
 }
 
 .form .login .login_center .login_top .right a:hover {
-    color: #FFAA42;
+    color: #950808;
 }
 
 .form .login .login_center .login_top .under-line {
     height: 2px;
-    background: #FFAA42;
+    background: #950808;
     margin: 8px 0;
 }
 
@@ -82,12 +82,12 @@ body {
 }
 
 .form .login .login_center .login_main input:focus {
-    border: 1px solid #FFAA42;
+    border: 1px solid #950808;
 }
 
 .form .login .login_center .login-info {
     font: 16px Times New Roman;
-    height: 40px;
+    height: 30px;
     line-height: 40px;
     margin: 35px 0;
 }
@@ -100,7 +100,7 @@ body {
 }
 
 .form .login .login_center .login-info .verify-code {
-    width: 100px;
+    width: 134px;
     height: 30px;
     padding: 5px 10px;
 }
@@ -113,10 +113,10 @@ body {
 
 .form .login .login_center .login_submit .submit {
     border: none;
-    width: 240px;
+    width: 243px;
     height: 45px;
     margin-left: 55px;
-    background: #FFAA42;
+    background: #950808;
     color: #fff;
     font-size: 20px;
     font-weight: bold;
